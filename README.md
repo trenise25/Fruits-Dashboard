@@ -76,3 +76,6 @@ The report utilizes the following datasets:
 
 ---
 ## Snapshots of Fruits Dashboard 
+![Screenshot 2024-12-02 000343](https://github.com/user-attachments/assets/2bd0c4de-8395-48c0-93d4-41b8a745bc2f)
+![Screenshot 2024-12-02 000359](https://github.com/user-attachments/assets/201e8f89-d136-41fc-882e-2a5149acbcec)
+![Screenshot 2024-12-02 000409](https://github.com/user-attachments/assets/a6c2792e-2a7d-458a-a82f-d22ba36dce88)
