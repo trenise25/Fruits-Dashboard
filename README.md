@@ -1,5 +1,3 @@
-Here's a suggested **README** for your Fruits Sales and Inventory Analysis report in Power BI:
-
 ---
 
 # Fruits Sales and Inventory Analysis Report - Power BI
